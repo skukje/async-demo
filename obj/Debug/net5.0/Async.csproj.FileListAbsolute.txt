@@ -1,0 +1,15 @@
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/Async.deps.json
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/Async.runtimeconfig.json
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/Async.runtimeconfig.dev.json
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/Async.dll
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/ref/Async.dll
+/Users/kjell-einar/Utvikling/Blog/Async/bin/Debug/net5.0/Async.pdb
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.csprojAssemblyReference.cache
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.AssemblyInfoInputs.cache
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.AssemblyInfo.cs
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.csproj.CoreCompileInputs.cache
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.dll
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/ref/Async.dll
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.pdb
+/Users/kjell-einar/Utvikling/Blog/Async/obj/Debug/net5.0/Async.genruntimeconfig.cache
